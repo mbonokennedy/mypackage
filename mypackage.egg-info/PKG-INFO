@@ -1,0 +1,17 @@
+Metadata-Version: 1.0
+Name: mypackage
+Version: 0.1
+Summary: EDSA example python package
+Home-page: https://github.com/mbonokennedy/Predict_Analysis
+Author: Kennedy Mbono
+Author-email: mbonokennedy@gmail.com
+License: MIT
+Description: # mypackage
+        Thsi library was created as an example of how to publish your own python package.
+        
+        ## Building this package locally
+        'python setup-py sdist'
+        
+        ## Insatlling this package from GitHub
+        
+Platform: UNKNOWN
